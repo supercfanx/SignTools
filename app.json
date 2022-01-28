@@ -60,6 +60,7 @@
     },
     "PROFILE_CERT_PASS": {
       "description": "Your signing profile certificate's password.",
+      "required": false,
       "value": ""
     },
     "PROFILE_CERT_BASE64": {
